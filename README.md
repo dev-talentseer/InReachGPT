@@ -1,4 +1,5 @@
 # InReachGPT
+![InReachGPT Logo](./InReachGPT-logo_256.png)
 
 InReachGPT is a dual-component tool designed to enhance the way you interact with your professional network. It consists of a web extension that allows you to collect and tag notes about your network connections, storing them in a personal database for easy retrieval. Coupled with this, InReachGPT also includes a ChatGPT plugin that allows for seamless retrieval of this network data.
 
