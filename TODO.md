@@ -1,10 +1,10 @@
 # InReachGPT TODO List
 
 ## Set Up Development Environment
-- [ ] Install required software (Python, Git, etc.)
-- [ ] Clone repository
-- [ ] Create Python virtual environment
-- [ ] Install dependencies
+- [x] Install required software (Python, Git, etc.)
+- [x] Clone repository
+- [x] Create Python virtual environment
+- [x] Install dependencies
 
 ## Create Project Scaffold
 - [ ] Initialize FastAPI project
